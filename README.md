@@ -1,4 +1,6 @@
-# CATch
-"Catlike" ÜNOG Fall Jam 2021 konusu üzerine projedir. 
+# CATch!
+"Catlike" ÜNOG Fall Jam 2021 konusu üzerine projedir.
+<br/>
 https://elbruznartthawkho.itch.io/catch
-![CATch!](https://github.com/ElbruzNartThawkho/CATch/blob/main/Assets/Sprites/CATch!%20512x512.png)
+<br/>
+![CATch! 512x512.png](https://github.com/ElbruzNartThawkho/CATch/blob/main/Assets/Sprites/CATch!%20512x512.png)
